@@ -1,0 +1,82 @@
+.slider {
+    width: 640px;
+    height: 360px;
+}
+
+body {
+    background-color: rgb(255 255 253/ 25%);
+}
+
+main {
+    margin-bottom: 25px;
+}
+
+#image {
+    max-height: 160px;
+}
+
+li:hover {
+    color: #646b77;
+}
+
+h3.education {
+    font-style: italic;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.welcome {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 33px;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.introduce {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 45px;
+    color: #000000;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.contact_type {
+    color: rgb(21, 12, 12);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.contact_link {
+    color: #646b77;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
